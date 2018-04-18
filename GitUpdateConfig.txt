@@ -1,0 +1,12 @@
+Owner: vTexc
+Name: Inventory-Preview
+Repository
+
+Ignore:
+src
+.gitignore
+.gitattributes
+LICENSE
+README.md
+config.ini
+box_screenshot.jpg
